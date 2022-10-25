@@ -1,5 +1,8 @@
 _repo: The-story-of-Ida-epitaph-on-an-Etrurian-tomb_69044
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69044-h/images/cover.jpg
 creator:
   author:
     agent_name: Alexander, Francesca
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44549
     wikipedia: http://en.wikipedia.org/wiki/Francesca_Alexander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69044#The-story-of-Ida-epitaph-on-an-Etrurian-tomb
 gutenberg_issued: '2022-09-25'
 identifiers:
   gutenberg: '69044'
